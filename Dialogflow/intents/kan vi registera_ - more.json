@@ -1,0 +1,63 @@
+{
+  "id": "c949263f-6203-4239-9c14-a09a18295620",
+  "parentId": "e1653c08-a313-4da7-8b06-fa25678efa6b",
+  "rootParentId": "e1653c08-a313-4da7-8b06-fa25678efa6b",
+  "name": "kan vi registera? - more",
+  "auto": true,
+  "contexts": [
+    "kanviregistera-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "kanviregistera.kanviregistera-more",
+      "affectedContexts": [
+        {
+          "name": "kanviregistera-more-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bce021fa-671d-49fc-a69b-acf6acc98afe",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "firstname",
+          "value": "$firstname",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "58c5f729-5439-4b51-909a-d45db28d40a6",
+          "required": true,
+          "dataType": "@sys.last-name",
+          "name": "lastname",
+          "value": "$lastname",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Is your name $firstname $lastname?"
+        },
+        {
+          "type": 0,
+          "lang": "sv",
+          "speech": "Är ditt namn $firstname $lastname?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540982150,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "cc9d26da-16b7-4518-96a7-fc0c345a857d",
+    "data": [
+      {
+        "text": "God ",
+        "userDefined": false
+      },
+      {
+        "text": "Kväll",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d85ebec-e23b-4478-8c98-2b5620fde567",
+    "data": [
+      {
+        "text": "God ",
+        "userDefined": false
+      },
+      {
+        "text": "Eftermiddag",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0890f631-1d1d-4901-8641-02c080fed7d1",
+    "data": [
+      {
+        "text": "God ",
+        "userDefined": false
+      },
+      {
+        "text": "morgon",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c8ad5f0-09bc-4d8e-9d1a-2d2cf3e502c2",
+    "data": [
+      {
+        "text": "Tja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba631e44-c453-41c3-913e-0167bf1082a7",
+    "data": [
+      {
+        "text": "Tjena",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "17ff33c3-f182-4046-8fb2-0e351a968fef",
+    "data": [
+      {
+        "text": "heej",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0703726d-3e12-4c7a-9f71-8044890b407c",
+    "data": [
+      {
+        "text": "Hallå",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "350ea2f6-9b19-46dd-a5d9-3f3472251514",
+    "data": [
+      {
+        "text": "Hej",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "153785a3-dc08-44a2-b0d8-f47d5b135de0",
+    "data": [
+      {
+        "text": "registrera mig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63cf493d-bace-41f5-b503-96970d49affc",
+    "data": [
+      {
+        "text": "kan vi registera?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1db23662-44e4-44b1-86b3-8e2b36ccae3e",
+    "data": [
+      {
+        "text": "kan vi registera oss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c0dcb6e-e4c5-4c69-a162-237f293aa910",
+    "data": [
+      {
+        "text": "kan man registera sig?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8be5f88-1989-4597-9295-082e351698d1",
+    "data": [
+      {
+        "text": "hur registerar jag mig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "068d6ce4-bfdc-44ad-b975-eaf46a744286",
+    "data": [
+      {
+        "text": "jag skulle villja registera mig tack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a31a765-d36d-45d7-be4d-b2f34906873d",
+    "data": [
+      {
+        "text": "jag vill registera mig.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "baeb98c6-0213-4ad7-a2e8-a9a93747a168",
+    "data": [
+      {
+        "text": "kan jag få registera mig?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2cd700d3-10a2-45b0-891c-850b9d0e3031",
+    "data": [
+      {
+        "text": "registera mig tack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3fd0db59-8b98-49e9-a913-f91760f4e892",
+    "data": [
+      {
+        "text": "registera mig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56d5d6c0-6d45-450b-9ade-6b9b47e97b72",
+    "data": [
+      {
+        "text": "registering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4164f35f-9336-4b7f-8408-1a8a6e33f0a2",
+    "data": [
+      {
+        "text": "Hej, Jag vill registera mig.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

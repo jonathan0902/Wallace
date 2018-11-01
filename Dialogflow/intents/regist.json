@@ -1,0 +1,47 @@
+{
+  "id": "e1653c08-a313-4da7-8b06-fa25678efa6b",
+  "name": "regist",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "kanviregistera-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9088f3b8-5bf2-46bc-afc3-d02ae76b71df",
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "sv",
+          "speech": "Vad är ditt för och efternamn?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hello, what is your first and lastname?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541066382,
+  "fallbackIntent": false,
+  "events": []
+}

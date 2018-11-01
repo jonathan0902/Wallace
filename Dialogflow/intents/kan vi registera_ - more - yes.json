@@ -1,0 +1,57 @@
+{
+  "id": "c16eb8b3-cdeb-4a9f-a97f-02cfbeba5576",
+  "parentId": "c949263f-6203-4239-9c14-a09a18295620",
+  "rootParentId": "e1653c08-a313-4da7-8b06-fa25678efa6b",
+  "name": "kan vi registera? - more - yes",
+  "auto": true,
+  "contexts": [
+    "kanviregistera-more-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "kanviregistera.kanviregistera-more.kanviregistera-more-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "96a91f03-269b-4d17-8097-e311b9ec4fd3",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "firstname",
+          "value": "#kanviregistera-more-followup.firstname",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "f442962c-d786-410c-a2d6-cada26ac0c11",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "lastname",
+          "value": "#kanviregistera-more-followup.lastname",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You have been added to the database with the name: #kanviregistera-more-followup.firstname #kanviregistera-more-followup.lastname."
+        },
+        {
+          "type": 0,
+          "lang": "sv",
+          "speech": "Registera #kanviregistera-more-followup.firstname #kanviregistera-more-followup.lastname."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541066134,
+  "fallbackIntent": false,
+  "events": []
+}
